@@ -1,0 +1,13 @@
+ 
+     Source                          SSq        df       MSq         F         p        
+-------------------------------------------------------------------------------------
+     Between-subjects factor       0.047         3     0.016     0.501 0.6833481
+     Between-subjects error        1.759        56     0.031
+     Within-subjects factor        0.349         1     0.349    14.906 0.0002951
+     Within x between int.         0.080         3     0.027     1.146 0.3384171
+     Within-subjects error         1.310        56     0.023
+
+
+     Response  Visual    Combined  Control 
+t=   1.1023    4.2317    2.0355    0.9960
+p=   0.1445    0.0004    0.0306    0.1681
