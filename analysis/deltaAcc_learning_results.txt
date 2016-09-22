@@ -1,9 +1,0 @@
-
-     Source                          SSq        df       MSq         F         p        
--------------------------------------------------------------------------------------
-     Between-subjects factor       0.477         3     0.159     4.360 0.0078852
-     Between-subjects error        2.040        56     0.036
-     Within-subjects factor        0.079         3     0.026     3.919 0.0097555
-     Within x between int.         0.113         9     0.013     1.880 0.0579753
-     Within-subjects error         1.123       168     0.007
- 
